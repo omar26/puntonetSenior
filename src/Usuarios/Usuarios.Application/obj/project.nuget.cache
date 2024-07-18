@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQfui+KNLb+gTtzRt9y8dYoFjR7y2vmcLJOlaPtnCREVJeLvzpK4ZmGOPXLjM3RL/QZM7GvWQA0QD28kaILUTw==",
+  "success": true,
+  "projectFilePath": "G:\\CURSOS DEV\\c# con aws senior\\Microservicio\\Usuarios\\src\\Usuarios\\Usuarios.Application\\Usuarios.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omar\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\omar\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\omar\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+    "C:\\Users\\omar\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\omar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\omar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\omar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Ciw0o5h88i/Ekg3OB/XvfT6ai1qYfah5mcONVlDzjecxrIC85c877BSTISQcc79wrslb499Frm67Upx5++6sQ==",
+  "success": true,
+  "projectFilePath": "G:\\CURSOS DEV\\c# con aws senior\\Microservicio\\Usuarios\\src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
